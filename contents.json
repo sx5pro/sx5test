@@ -1,0 +1,36 @@
+{
+    "content": {
+        "SmartCard": [
+            {
+                "index": 0,
+                "name": "SmartCard 2.0.1 ENG",
+                "file": "<path to download file>",
+                "changelog": "<path to changelog>",
+                "description": "This is the description"
+            },
+            {
+                "index": 1,
+                "name": "SmartCard 3 ENG",
+                "file": "<path to download file>",
+                "changelog": "<path to changelog>",
+                "description": "This is the description"
+            }
+        ],
+        "Kiosk": [
+             {
+                "index": 0,
+                "name": "KIOSK 1 ENG",
+                "file": "<path to download file>",
+                "changelog": "<path to changelog>",
+                "description": "This is the description"
+            },
+            {
+                "index": 1,
+                "name": "KIOSK 2 ENG",
+                "file": "<path to download file>",
+                "changelog": "<path to changelog>",
+                "description": "This is the description"
+            }
+        ]
+    }
+}
